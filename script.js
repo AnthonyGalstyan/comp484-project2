@@ -29,7 +29,7 @@ $(function() {
 // Pet information object.
 // Energy is the additional property for the new Nap behavior.
 var pet_info = {
-  name: "MewTwo",
+  name: "Mewtwo",
   weight: 25,
   happiness: 50,
   energy: 50
